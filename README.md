@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312e81,70:0891b2,100:020617&height=220&section=header&text=Juan%20Felipe%20Uribe&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Juan Felipe Uribe Romero" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312e81,70:0891b2,100:020617&height=220&section=header&text=Juan%20Felipe%20Uribe&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Desarrollador%20Full%20Stack%20%7C%20Medell%C3%ADn%2C%20Colombia&descAlignY=55&descSize=16" width="100%" alt="Encabezado animado de Juan Felipe Uribe" />
 
-# 🪐 Desarrollador Full Stack
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Construyendo+soluciones+digitales;Frontend+%E2%86%92+Backend+%E2%86%92+Producci%C3%B3n;Creando+desde+Medell%C3%ADn%2C+Colombia" alt="Texto animado: Desarrollador Full Stack" />
+</a>
 
 **Construyendo soluciones digitales de extremo a extremo desde Medellín, Colombia**
 
@@ -14,7 +16,7 @@
 
 ## 🌌 Sobre mí
 
-Soy **Juan Felipe Uribe Romero**, tecnólogo en Análisis y Desarrollo de Software y desarrollador Full Stack independiente. Creo aplicaciones web y móviles con foco en rendimiento, seguridad, diseño y experiencia de usuario.
+Soy **Juan Felipe Uribe Romero**, tecnólogo en Análisis y Desarrollo de Software y desarrollador Full Stack independiente. Creo aplicaciones web y móviles con foco en rendimiento, seguridad, diseño y experiencias digitales completas.
 
 - 📍 Medellín, Colombia
 - 🚀 Desarrollo soluciones completas: frontend, backend, bases de datos y despliegue
@@ -68,7 +70,7 @@ Ecosistema web y móvil para administrar empresas: inventario sincronizado en ti
 ## 🎓 Trayectoria
 
 ```text
-2026  ➜  Tecnólogo en Análisis y Desarrollo de Software
+2026      ➜  Tecnólogo en Análisis y Desarrollo de Software
 Presente  ➜  Desarrollo activo de productos Full Stack independientes
 ```
 
@@ -80,6 +82,6 @@ Presente  ➜  Desarrollo activo de productos Full Stack independientes
 
 ✨ Construyendo el próximo proyecto desde Medellín ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312e81,70:0891b2,100:020617&height=120&section=footer" width="100%" alt="Footer espacial" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312e81,70:0891b2,100:020617&height=120&section=footer&animation=twinkling" width="100%" alt="Pie de página espacial animado" />
 
 </div>
